@@ -1,6 +1,6 @@
 ### Welcome to Wesley Lanes Decoté profile!👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F79602&lines=Full+Stack+Developer+)](https://git.io/typing-svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WesleyLanes&theme=highcontrast)](https://git.io/streak-stats)
 
