@@ -9,5 +9,4 @@
 <p align="left">
   <a href="https://github.com/WesleyLanes"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
   <a href="https://linkedin.com/in/wesleydecote"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
-  <a href="https://instagram.com/wesleydecote"><img alt="Instagram" height="32" width="32" src="assets/instagram.svg"></a>
 </p>
