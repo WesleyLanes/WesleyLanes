@@ -1,17 +1,13 @@
-### Bem Vindo!👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyLanes&count_private=true&show_icons=true&theme=gotham&locale=pt-BR)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyLanes&count_private=true&show_icons=true&theme=gotham&locale=pt-BR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**WesleyLanes/WesleyLanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to Wesley Lanes Decoté profile!👋
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WesleyLanes&theme=highcontrast)](https://git.io/streak-stats)
+
+
+
+<p align="left">
+  <a href="https://github.com/WesleyLanes"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
+  <a href="https://linkedin.com/in/wesleydecote"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
+  <a href="https://instagram.com/wesleydecote"><img alt="Instagram" height="32" width="32" src="assets/instagram.svg"></a>
+</p>
