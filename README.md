@@ -1,4 +1,4 @@
-### Welcome to Wesley Lanes Decoté profile!👋
+### Welcome to Wesley Lanes Decoté profile! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F79602&lines=Full+Stack+Developer+)](https://git.io/typing-svg)
 
